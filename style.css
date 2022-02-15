@@ -1,0 +1,93 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+.menu{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 2px;
+    padding: 1%;
+    
+}
+.menu-button{
+    text-decoration:none;
+    padding: 10px 40px;
+    background-image: linear-gradient(315deg, #0d5ea0 0%, #5c6161 74%);
+    font-weight: 700;
+    color: black;
+    border-radius: 30px;
+    margin-left: 10px;
+}
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 40px;
+}
+
+.Gradient-color{
+    color: #5c6161;
+}
+.top-banner{
+    display: flex;
+    margin-bottom: 150px;
+    padding-right: 2%;
+}
+.About{
+    display: flex;
+    margin-bottom: 150px;
+    padding-right: 20%;
+}
+.Two-Experience{
+    display: flex;
+    margin-bottom: 150px;
+    padding-right: 2%;
+}
+.half-width{
+    width: 60%;
+    padding-left: 2%;
+}
+.half-width img{
+   margin-top: 40px;
+   margin-right: 20px;
+   border-radius: 50%;
+   width: 300px;
+   height: 300px;
+   float: right;
+}
+
+.link-button{
+    text-decoration: none;
+    padding: 10px 40px;
+    background-image: linear-gradient(315deg, #0d5ea0 0%, #5c6161 74%);
+    font-weight: 700;
+    color: black;
+    border-radius: 30px;
+
+}
+.ex{
+    text-align: center;
+}
+.experience-item{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: 10px 10px 40px #5c6161;
+    border-radius: 10px;
+}
+#FSD{
+    border-left: 10px solid;
+    border-image: linear-gradient(315deg, #0d5ea0 0%, #5c6161 74%);
+    border-image-slice: 1;
+
+}
+#UD{
+    border-left: 10px solid;
+    border-image: linear-gradient(315deg, #5c6161 0%, #0d5ea0 74%);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+}

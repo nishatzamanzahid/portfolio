@@ -1,0 +1,25 @@
+.Wrapper{
+    height: 1000px;
+    width: 100%;
+    background-color: gray;
+}
+.Content{
+    height: 600px;
+    width: 100%;
+}
+h1{
+    text-align: center;
+}
+
+.Content .ONE{
+    height: 360px;
+    width: 50%;
+    transform: rotate(0deg);
+    transition: all 2s;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+}
+.Content .ONE:hover{
+    transform: scale(1.5);
+}
