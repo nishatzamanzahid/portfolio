@@ -1,0 +1,51 @@
+body{
+    
+    color: white;
+    
+}
+h1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+    color: black;
+    
+}
+
+.title{
+    
+    color: gray
+    
+}
+p{
+    
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 10px;
+}
+.moto{
+   
+    color: teal;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: auto;
+    padding-left: 20px;
+
+}
+.half-width img{
+    width: 420px;
+    padding-top: 20px;
+    padding-left: 170px;
+    
+}
+.link-button{
+    text-decoration: none;
+    background-color: gray;
+    padding: 3px 10px;
+    border-radius: 5px;
+    color: white;
+}
+.footer{
+    text-align: center;
+}
